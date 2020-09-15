@@ -13,7 +13,7 @@
 8. [Learning from Multiple Cities: A Meta-Learning Approach for Spatial-Temporal Prediction](<https://arxiv.org/pdf/1901.08518.pdf>), WWW 2019
 9. 
 
-### Traffic Speed Prediction
+### Traffic Speed/Flow Prediction
 
 1. [Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting](https://arxiv.org/pdf/1707.01926.pdf), ICLR 2018, evaluated with MetrLA and 
 2. [Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting](<https://arxiv.org/abs/1709.04875>), IJCAI 2018, evaluated with BJER4 and PeMS datasets.
@@ -24,5 +24,10 @@
 
 ### Travel Time Estimation
 
+### Route Planning
+
+### Bike/Taxi Schedual
+
+### 
 
 
